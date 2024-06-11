@@ -1,0 +1,20 @@
+{
+    "name": "hush/helper",
+    "description": "适用于thinkphp8的一些常用函数",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hush",
+            "email": "1193038523@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "topthink/framework": "^8.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
